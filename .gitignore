@@ -1,6 +1,13 @@
-*.class
+# Intellij Idea Files
+.idea
+target/
+*target/
+*.iml
 
-# Package Files #
-*.jar
-*.war
-*.ear
+# Eclipse Files
+.settings
+*.settings
+.project
+*.project
+.classpath
+*.classpath
